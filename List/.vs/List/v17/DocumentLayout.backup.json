@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Luiz Gustavo\\source\\repos\\CRUDapi\\List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC00AB7-BC04-5027-28A5-6EA9DC5937D4}|List.csproj|d:\\users\\luiz gustavo\\source\\repos\\crudapi\\list\\routes\\titleroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC00AB7-BC04-5027-28A5-6EA9DC5937D4}|List.csproj|solutionrelative:routes\\titleroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC00AB7-BC04-5027-28A5-6EA9DC5937D4}|List.csproj|d:\\users\\luiz gustavo\\source\\repos\\crudapi\\list\\routes\\personroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC00AB7-BC04-5027-28A5-6EA9DC5937D4}|List.csproj|solutionrelative:routes\\personroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC00AB7-BC04-5027-28A5-6EA9DC5937D4}|List.csproj|d:\\users\\luiz gustavo\\source\\repos\\crudapi\\list\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC00AB7-BC04-5027-28A5-6EA9DC5937D4}|List.csproj|solutionrelative:models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC00AB7-BC04-5027-28A5-6EA9DC5937D4}|List.csproj|d:\\users\\luiz gustavo\\source\\repos\\crudapi\\list\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC00AB7-BC04-5027-28A5-6EA9DC5937D4}|List.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC00AB7-BC04-5027-28A5-6EA9DC5937D4}|List.csproj|d:\\users\\luiz gustavo\\source\\repos\\crudapi\\list\\models\\titlemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC00AB7-BC04-5027-28A5-6EA9DC5937D4}|List.csproj|solutionrelative:models\\titlemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC00AB7-BC04-5027-28A5-6EA9DC5937D4}|List.csproj|d:\\users\\luiz gustavo\\source\\repos\\crudapi\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC00AB7-BC04-5027-28A5-6EA9DC5937D4}|List.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e78e0cf7-2e4e-48a7-bf7f-a94d9330a3be}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Luiz Gustavo\\source\\repos\\CRUDapi\\List\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Users\\Luiz Gustavo\\source\\repos\\CRUDapi\\List\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T19:37:04.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "D:\\Users\\Luiz Gustavo\\source\\repos\\CRUDapi\\List\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "Models\\PersonModel.cs",
+              "ToolTip": "D:\\Users\\Luiz Gustavo\\source\\repos\\CRUDapi\\List\\Models\\PersonModel.cs",
+              "RelativeToolTip": "Models\\PersonModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T01:24:31.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TitleModel.cs",
+              "DocumentMoniker": "D:\\Users\\Luiz Gustavo\\source\\repos\\CRUDapi\\List\\Models\\TitleModel.cs",
+              "RelativeDocumentMoniker": "Models\\TitleModel.cs",
+              "ToolTip": "D:\\Users\\Luiz Gustavo\\source\\repos\\CRUDapi\\List\\Models\\TitleModel.cs",
+              "RelativeToolTip": "Models\\TitleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T00:31:33.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Users\\Luiz Gustavo\\source\\repos\\CRUDapi\\List\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "D:\\Users\\Luiz Gustavo\\source\\repos\\CRUDapi\\List\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T01:56:04.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonRoute.cs",
+              "DocumentMoniker": "D:\\Users\\Luiz Gustavo\\source\\repos\\CRUDapi\\List\\Routes\\PersonRoute.cs",
+              "RelativeDocumentMoniker": "Routes\\PersonRoute.cs",
+              "ToolTip": "D:\\Users\\Luiz Gustavo\\source\\repos\\CRUDapi\\List\\Routes\\PersonRoute.cs",
+              "RelativeToolTip": "Routes\\PersonRoute.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T01:14:36.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TitleRoute.cs",
+              "DocumentMoniker": "D:\\Users\\Luiz Gustavo\\source\\repos\\CRUDapi\\List\\Routes\\TitleRoute.cs",
+              "RelativeDocumentMoniker": "Routes\\TitleRoute.cs",
+              "ToolTip": "D:\\Users\\Luiz Gustavo\\source\\repos\\CRUDapi\\List\\Routes\\TitleRoute.cs",
+              "RelativeToolTip": "Routes\\TitleRoute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T01:44:55.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
