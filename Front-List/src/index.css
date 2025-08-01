@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inconsolata", monospace;
+}
+
+body {
+  min-height: 100vh;
+  width: 100vh;
+  background: linear-gradient(180deg, #52a492 0%, rgba(1, 35, 28, 0.8) 100%);
+}
