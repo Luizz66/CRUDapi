@@ -7,6 +7,16 @@
 
 body {
   min-height: 100vh;
-  width: 100vh;
-  background: linear-gradient(180deg, #52a492 0%, rgba(1, 35, 28, 0.8) 100%);
+  width: 100vw;
+  background: linear-gradient(
+    180deg,
+    var(--green-main) 0%,
+    rgba(0, 16, 13, 0.8) 100%
+  );
+}
+
+:root {
+  --green-main: #3f9481;
+  --green-li: #0f231f;
+  --green-opacity: rgba(15, 35, 31, 0.6);
 }
