@@ -658,3 +658,4 @@ D:\Users\Luiz Gustavo\source\repos\CRUDapi\List\obj\Debug\net9.0\List.pdb
 D:\Users\Luiz Gustavo\source\repos\CRUDapi\List\obj\Debug\net9.0\List.genruntimeconfig.cache
 D:\Users\Luiz Gustavo\source\repos\CRUDapi\List\obj\Debug\net9.0\ref\List.dll
 D:\Users\Luiz Gustavo\source\repos\CRUDapi\List\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Users\Luiz Gustavo\source\repos\CRUDapi\List\obj\Debug\net9.0\List.sourcelink.json

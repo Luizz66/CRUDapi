@@ -1,0 +1,67 @@
+.container-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.9);
+  display: flex;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.modal {
+  min-width: 25%;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  align-items: center;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 40vh;
+  color: white;
+  background-color: var(--green);
+
+  & h2 {
+    padding: 15px;
+  }
+
+  & #txt-input {
+    width: 100%;
+    margin: 15px 0 25px 0;
+    padding: 6px;
+    outline: none;
+    font: inherit;
+    border: solid 1px black;
+    border-radius: 5px;
+  }
+
+  & .container-btn {
+    width: 100%;
+    padding-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  & button {
+    padding: 10px;
+    font: inherit;
+    color: white;
+    border-radius: 5px;
+  }
+
+  & #btn-save {
+    color: black;
+    background-color: white;
+  }
+
+  & #btn-delete {
+    color: white;
+    background-color: darkred;
+  }
+
+  & button:hover {
+    opacity: 0.7;
+  }
+}

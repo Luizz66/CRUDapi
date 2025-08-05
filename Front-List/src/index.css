@@ -16,6 +16,7 @@ body {
 }
 
 :root {
+  --green: #294e47;
   --green-main: #3f9481;
   --green-li: #0f231f;
   --green-opacity: rgba(15, 35, 31, 0.6);
