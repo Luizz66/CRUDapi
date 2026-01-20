@@ -31,7 +31,6 @@ function Home() {
 
   useEffect(() => {
     fetchPerson();
-    // fetchTitle();
     getTitle()
       .then((data) =>
         setTitles(Array.isArray(data) ? data : data ? [data] : [])
@@ -43,13 +42,6 @@ function Home() {
     const res = await getPerson();
     if (res && res.length > 0) {
       setPersons(res);
-    }
-  };
-
-  const fetchTitle = async () => {
-    const res = await getTitle();
-    if (res && res.length > 0) {
-      setTitles(res);
     }
   };
 
@@ -166,7 +158,9 @@ function Home() {
                     </span>
                   </li>
                 ))
-              : "Nenhum item adicionado."}
+              : <li className="empty-list">"Nenhum item adicionado."</li>
+              
+              }
 
             {modal && (
               <CallModal

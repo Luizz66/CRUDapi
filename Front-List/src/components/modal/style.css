@@ -4,7 +4,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(0, 0, 0, 0.511);
   display: flex;
   justify-content: center;
   z-index: 1000;
@@ -21,6 +21,9 @@
   margin-bottom: 40vh;
   color: white;
   background-color: var(--green);
+  box-shadow: 10px 10px 10px 0px rgba(0, 0, 0, 0.53);
+  -webkit-box-shadow: 10px 10px 10px 0px rgba(0, 0, 0, 0.53);
+  -moz-box-shadow: 10px 10px 10px 0px rgba(0, 0, 0, 0.53);
 
   & h2 {
     padding: 15px;
@@ -54,6 +57,7 @@
   & #btn-save {
     color: black;
     background-color: white;
+    border-radius: 20px;
   }
 
   & #btn-delete {
